@@ -8,7 +8,7 @@ The compiler uses the [Cranelift](https://cranelift.dev/) compiler backend.
 
 Run a program using the interpreter with:
 ```sh
-$ brainlift run example/helloworld.b
+$ brainlift run examples/helloworld.b
 ```
 
 Compile a program with:
